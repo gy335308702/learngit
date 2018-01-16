@@ -1,0 +1,13 @@
+how many Bigdate componet did you know?
+hadoop
+mapreduce
+hive
+hbase
+spark
+flume
+kafka
+impala
+kudu
+pig
+oozie
+sqoop
